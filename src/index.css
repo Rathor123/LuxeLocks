@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.headingStyle {
+    font-weight: 800;
+    color: black;
+    font-size: 40px;
+    margin: 2% 0;
+    text-transform: capitalize;
+
+}
